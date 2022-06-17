@@ -1,0 +1,14 @@
+[
+  {
+    "package": "akmedoids",
+    "oncran": true
+  },
+  {
+    "package": "opitools",
+    "oncran": true
+  },
+  {
+    "package": "stppSim",
+    "oncran": true
+  }
+]
