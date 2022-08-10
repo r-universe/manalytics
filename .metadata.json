@@ -8,7 +8,6 @@
     "oncran": true
   },
   {
-    "package": "stppSim",
-    "oncran": true
+    "package": "stppSim"
   }
 ]
