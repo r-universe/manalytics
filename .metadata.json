@@ -6,8 +6,5 @@
   {
     "package": "opitools",
     "oncran": true
-  },
-  {
-    "package": "stppSim"
   }
 ]
