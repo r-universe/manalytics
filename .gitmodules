@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "stppSim"]
-	path = stppSim
-	url = https://github.com/manalytics/stppsim
+[submodule "akmedoids"]
+	path = akmedoids
+	url = https://github.com/manalytics/akmedoids
 	shallow = true
 	registered = true
 [submodule "opitools"]
@@ -13,8 +13,8 @@
 	url = https://github.com/manalytics/opitools
 	shallow = true
 	registered = true
-[submodule "akmedoids"]
-	path = akmedoids
-	url = https://github.com/manalytics/akmedoids
+[submodule "stppSim"]
+	path = stppSim
+	url = https://github.com/manalytics/stppsim
 	shallow = true
 	registered = true

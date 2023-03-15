@@ -1,13 +1,13 @@
 [
   {
-    "package": "stppSim",
-    "oncran": true
+    "package": "akmedoids"
   },
   {
     "package": "opitools",
     "oncran": true
   },
   {
-    "package": "akmedoids"
+    "package": "stppSim",
+    "oncran": true
   }
 ]
