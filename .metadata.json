@@ -1,10 +1,10 @@
 [
   {
-    "package": "opitools",
+    "package": "stppSim",
     "oncran": true
   },
   {
-    "package": "stppSim",
+    "package": "opitools",
     "oncran": true
   },
   {
