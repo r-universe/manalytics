@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "akmedoids"]
-	path = akmedoids
-	url = https://github.com/manalytics/akmedoids
-	shallow = true
-	registered = true
 [submodule "opitools"]
 	path = opitools
 	url = https://github.com/manalytics/opitools
