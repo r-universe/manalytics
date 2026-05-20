@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "opitools"]
-	path = opitools
-	url = https://github.com/manalytics/opitools
 [submodule "stppSim"]
 	path = stppSim
 	url = https://github.com/manalytics/stppsim
